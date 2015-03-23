@@ -3,6 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.sonatype.mavenbook.jag</groupId>
+  <groupId>org.sonatype.mavenbook.jag</groupId>
   <artifactId>jag</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
